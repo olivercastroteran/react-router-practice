@@ -5,6 +5,7 @@ import { Link } from 'react-router-dom';
 function Nav() {
   const navStyle = {
     color: '#fff',
+    textDecoration: 'none',
   };
   return (
     <nav>
